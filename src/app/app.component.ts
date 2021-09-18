@@ -15,15 +15,14 @@ export class AppComponent implements OnInit {
   constructor(private api: ApiService) {}
 
   ngOnInit() {
-    console.log('working');
-
+    console.log('Started');
     this.api.get(this.formatDate()).subscribe((res) => {
       this.response = res.data;
-      this.fillgospel_date(this.response);
-      this.fillreadings(this.response);
-      console.log('data response', res);
+      this.initialize(this.response);
+      console.log('data response ', res);
     });
-    console.log(this.formatDate());
+    console.log("End ");
+    console.log(this.formattedResponse)
   }
 
   formatDate() {
@@ -39,23 +38,33 @@ export class AppComponent implements OnInit {
     return dateStr;
   }
 
-  fillgospel_date(data: any) {
+
+  initialize(data:any){
     this.formattedResponse.gospel_date = data.date;
-  }
-
-  filldate_displayed(data:any){
+    
     this.formattedResponse.date_displayed = data.date_displayed;
-  }
-
-  fillreadings(data:any){
+    
     this.formattedResponse.readings = data.readings;
-    debugger;
+    var readingIndex = this.formattedResponse.readings.findIndex(t=> t.type==this.formattedResponse.READINGTYPE);
+    
+    this.formattedResponse.readings_type = this.formattedResponse.readings[readingIndex].type;
+    
+    this.formattedResponse.readings_reference_displayed = this.formattedResponse.readings[readingIndex].reference_displayed;
+    
+    this.formattedResponse.readings_title = this.formattedResponse.readings[readingIndex].title;
+    
+    this.formattedResponse.readings_text = this.formattedResponse.readings[readingIndex].text;
+    
+    this.formattedResponse.readings_text = this.refineReadingsText(this.formattedResponse.readings_text.split("\n"));
   }
 
-  // fillreadings_type(data:any){
-  //   this.formattedResponse.readings_type = data.readings;
-  // }
-  // fillreadings_reference_displayed(){
-
-  // } TODO::::
+  refineReadingsText(textList:string[]){
+    var i =0;
+    let arr =""
+    textList.forEach(element => {
+      var index = element.lastIndexOf("]");
+      arr+=(element.substr(index+1,element.length));
+    });
+    return arr;
+  }
 }
