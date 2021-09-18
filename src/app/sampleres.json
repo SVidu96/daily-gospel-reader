@@ -1,0 +1,156 @@
+{
+    "data": {
+        "date": "2021-09-18",
+        "date_displayed": "Saturday, September 18",
+        "liturgic_title": "Saturday of the Twenty-fourth week in Ordinary Time",
+        "has_liturgic_description": false,
+        "links": [
+            {
+                "rel": "day.readings",
+                "uri": "/AM/days/2021-09-18/readings"
+            },
+            {
+                "rel": "day.liturgy",
+                "uri": "/AM/days/2021-09-18/liturgy"
+            },
+            {
+                "rel": "day.special_liturgy",
+                "uri": "/AM/days/2021-09-18/special-liturgy"
+            },
+            {
+                "rel": "day.commentary",
+                "uri": "/AM/days/2021-09-18/commentary"
+            },
+            {
+                "rel": "day.saints",
+                "uri": "/AM/days/2021-09-18/saints"
+            }
+        ],
+        "readings": [
+            {
+                "id": "bb01fa84-e41f-423a-9e5a-c7daa2f839e7",
+                "reading_code": "1_Tm 6,13-16",
+                "before_reading": null,
+                "chorus": null,
+                "type": "reading",
+                "audio_url": null,
+                "reference_displayed": "6,13-16.",
+                "book": {
+                    "code": "1_Tm",
+                    "short_title": "1_Tm",
+                    "full_title": "First Letter to Timothy"
+                },
+                "text": "[[1_Tm 6,13]]Beloved: I charge (you) before God, who gives life to all things, and before Christ Jesus, who gave testimony under Pontius Pilate for the noble confession,\n[[1_Tm 6,14]]to keep the commandment without stain or reproach until the appearance of our Lord Jesus Christ\n[[1_Tm 6,15]]that the blessed and only ruler will make manifest at the proper time, the King of kings and Lord of lords,\n[[1_Tm 6,16]]who alone has immortality, who dwells in unapproachable light, and whom no human being has seen or can see. To him be honor and eternal power. Amen.",
+                "href": null,
+                "source": null,
+                "book_type": "reading",
+                "title": "First Letter to Timothy"
+            },
+            {
+                "id": "9be2319d-d827-4586-ad7c-0dda8806b997",
+                "reading_code": "Ps 100,2-2#Ps 100,3-3#Ps 100,4-4#Ps 100,5-5",
+                "before_reading": null,
+                "chorus": null,
+                "type": "psalm",
+                "audio_url": null,
+                "reference_displayed": "100(99),2.3.4.5.",
+                "book": {
+                    "code": "Ps",
+                    "short_title": "Ps",
+                    "full_title": "Psalms"
+                },
+                "text": "[[Ps 100,2]]Sing joyfully to the Lord all you lands,\r\nserve the LORD with gladness; \r\ncome before him with joyful song.\n\n[[Ps 100,3]]Know that the LORD is God; \r\nhe made us, his we are; \r\nhis people, the flock he tends.\n\n[[Ps 100,4]]Enter his gates with thanksgiving, \r\nhis courts with praise; \r\ngive thanks to him; bless his name. \n\n[[Ps 100,5]]The LORD is good: \r\nhis kindness endures forever, \r\nand his faithfulness, to all generations.",
+                "href": null,
+                "source": null,
+                "book_type": "psalm",
+                "title": "Psalms"
+            },
+            {
+                "id": "cf80451b-2a82-465f-a93d-756f7256d650",
+                "reading_code": "Lc 8,4-15",
+                "before_reading": null,
+                "chorus": null,
+                "type": "gospel",
+                "audio_url": null,
+                "reference_displayed": "8,4-15.",
+                "book": {
+                    "code": "Lc",
+                    "short_title": "Lc",
+                    "full_title": "Holy Gospel of Jesus Christ according to Saint Luke"
+                },
+                "text": "[[Lc 8,4]]When a large crowd gathered, with people from one town after another journeying to Jesus, he spoke in a parable.\n[[Lc 8,5]]A sower went out to sow his seed. And as he sowed, some seed fell on the path and was trampled, and the birds of the sky ate it up.\n[[Lc 8,6]]Some seed fell on rocky ground, and when it grew, it withered for lack of moisture.\n[[Lc 8,7]]Some seed fell among thorns, and the thorns grew with it and choked it.\n[[Lc 8,8]]And some seed fell on good soil, and when it grew, it produced fruit a hundredfold.\" After saying this, he called out, \"Whoever has ears to hear ought to hear.\"\n[[Lc 8,9]]Then his disciples asked him what the meaning of this parable might be.\n[[Lc 8,10]]He answered, \"Knowledge of the mysteries of the kingdom of God has been granted to you; but to the rest, they are made known through parables so that 'they may look but not see, and hear but not understand.'\n[[Lc 8,11]]This is the meaning of the parable. The seed is the word of God.\n[[Lc 8,12]]Those on the path are the ones who have heard, but the devil comes and takes away the word from their hearts that they may not believe and be saved.\n[[Lc 8,13]]Those on rocky ground are the ones who, when they hear, receive the word with joy, but they have no root; they believe only for a time and fall away in time of trial.\n[[Lc 8,14]]As for the seed that fell among thorns, they are the ones who have heard, but as they go along, they are choked by the anxieties and riches and pleasures of life, and they fail to produce mature fruit.\n[[Lc 8,15]]But as for the seed that fell on rich soil, they are the ones who, when they have heard the word, embrace it with a generous and good heart, and bear fruit through perseverance.\"",
+                "href": null,
+                "source": "Copyright © Confraternity of Christian Doctrine, <a href=\"http://www.usccb.org/bible/books-of-the-bible/\" target=\"_blank\"><u>USCCB</u></a>",
+                "book_type": "gospel",
+                "title": "Holy Gospel of Jesus Christ according to Saint Luke"
+            }
+        ],
+        "liturgy": {
+            "id": "da05d823-9312-4cfa-aaa7-5eda63f63348",
+            "title": "Saturday of the Twenty-fourth week in Ordinary Time",
+            "description": null,
+            "source": null,
+            "image_links": {
+                "large": null,
+                "ico": null
+            },
+            "href": "/AM/days/2021-09-18/liturgy"
+        },
+        "special_liturgy": null,
+        "commentary": {
+            "id": "41c05546-ceae-478c-84dd-ee8fa2302134",
+            "title": "\"And some seed fell on good soil\"",
+            "book_type": "commentary",
+            "description": "In my view it was to Mary that the blessed prophet Joel was speaking when he exclaimed: “Fear not, O land! Exult and rejoice! For the Lord has done great things in you” (2,21). For Mary is a land: that ground on which Moses, the man of God, heard the command to remove his sandals (Ex 3,5), an image of the Law now replaced by grace. She is also that land on which, through the Holy Spirit, he was built up of whom we sing that he “fixed the earth on its foundations” (Ps 104[103],5). She is a land which, without being sown, brings forth the fruit that feeds all flesh (Ps 136[135],25). A land on which the thorns of sin have never sprung up; to the contrary, she has given birth to him who pulled it up by the roots. And she is a land that is not cursed as the first one was to bring forth a harvest of thorns and thistles (Gn 3,18), but on whom rests the Lord's blessing and who bears in her breast a “blessed fruit” as holy scripture says (Lk 1,42)...\n\n\tRejoice, O Mary, house of the Lord, earth trodden by the footsteps of God... Rejoice, O paradise more happy than the garden of Eden, where every virtue has been seeded and where the tree of Life has grown.",
+            "source": "Homily 2 for the Nativity of Mary, 4, 7; PG 96, 683f.",
+            "author": {
+                "name": "Saint Theodore the Studite (759-826)",
+                "short_description": "monk at Constantinople"
+            },
+            "href": "/AM/days/2021-09-18/commentary"
+        },
+        "saints": [
+            {
+                "id": "a67bc48d-7104-47c1-9872-f6fafba5fae7",
+                "name": "St. Thomas of Villanova",
+                "short_description": "Bishop (1488-1555)",
+                "location": null,
+                "date_displayed": "September 18",
+                "month": 9,
+                "day": 18,
+                "order1": 1,
+                "order2": null,
+                "image_links": {
+                    "large": "https://files.evangelizo.org/images/santibeati/T/San_Tommaso_da_Villanova_Vescovo/San_Tommaso_da_Villanova_N.jpg",
+                    "face": null,
+                    "ico": null
+                },
+                "bio": "<p style=\"text-align: center;\"><strong>SAINT THOMAS OF VILLANOVA&nbsp; <br />Bishop<br />(1488-1555)</strong></p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; St. Thomas was selfless and generous, innocent as a dove and wise as a serpent. He was the Archbishop of Valencia and the consultant of King Charles V. His legacy includes building hospitals for the poor, reforming ecclesiastical administration and instituting social services and safety nets.</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; St. Thomas was a humble servant and faithful shepherd. After receiving his habit from the order of St. Augustine, he chastised some bishops for excesses and abuses of power. When he was promoted archbishop, he accepted out of obedience.</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; As archbishop of Valencia, he established an administrative system to unify the different parishes. He also established public hospitals, orphanages and schools. He also instituted safety nets, like jobs for the&nbsp;unemployed and dowries for poor women. His love for families and society was motivated by serving Jesus in the poor.&nbsp;</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; St. Thomas was so generous that by the time he passed away, he was the only poor person in his parish. He passed away on the Nativity of Our Lady in 1555. A poor person among the poor, this servant of men and God lives forever in the presence of Our Lord and the saints.</p>",
+                "bio_source": "<I>Lives of the Saints, by Alban Butler, Benziger Bros. ed. [1894]",
+                "prayer": null,
+                "href": "/AM/saints/a67bc48d-7104-47c1-9872-f6fafba5fae7"
+            },
+            {
+                "id": "2ebe282d-2d57-470a-aad2-a20c42ce095b",
+                "name": "St. Joseph of Cupertino (1603-1663)",
+                "short_description": null,
+                "location": null,
+                "date_displayed": "September 18",
+                "month": 9,
+                "day": 18,
+                "order1": 2,
+                "order2": null,
+                "image_links": {
+                    "large": "https://files.evangelizo.org/images/santibeati/G/San_Giuseppe_da_Copertino_Sacerdote/San_Giuseppe_da_Copertino_B.jpg",
+                    "face": "https://files.evangelizo.org/images/santibeati/G/San_Giuseppe_da_Copertino_Sacerdote/San_Giuseppe_da_Copertino_B_picto.jpg",
+                    "ico": "https://files.evangelizo.org/images/santibeati/G/San_Giuseppe_da_Copertino_Sacerdote/San_Giuseppe_da_Copertino_B_picto.jpg"
+                },
+                "bio": "<p align=\"center\"><strong>SAINT JOSEPH OF CUPERTINO<br />Priest<br />(1603-1663)</strong></p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; St. Joseph of Cupertino was raised by pious, humble parents. As a youth, he was noted for his chastity. He is the patron saint of struggling students after overcoming barriers to his ordination. He was admitted among the Friars Minor Conventual at the convent of Grotella, first as a lay brother because of his lack of formal education, then, by divine intervention, as a cleric.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After being ordained a priest, he afflicted his body with hairshirts, disciplines and all kinds of austerities. He nourished his spirit with holy prayer. It came about that God called him to the highest level of contemplation.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notable for his obedience and detachment from material things, he cultivated and preserved his chastity despite violent temptations. He honored the Virgin Mary with a wonderful love and shone with great charity toward the poor.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By order of his superiors and of the sacred Inquisition, he traversed many regions. Finally, at Osimo in Picenum, in the sixty-first year of his age, he passed into glory to be with Jesus Christ forever.</p>",
+                "bio_source": "<i>The Roman Breviary - Benziger Brothers - 1964",
+                "prayer": null,
+                "href": "/AM/saints/2ebe282d-2d57-470a-aad2-a20c42ce095b"
+            }
+        ]
+    },
+    "href": "/AM/days/2021-09-18?include=readings,liturgy,special_liturgy,commentary,saints"
+}
