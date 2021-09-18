@@ -18,7 +18,7 @@
 }
 
 .paragraph{
-    max-height: 250 px;
+    max-height: 250px;
     overflow: auto;
     padding: 5px;
     font-weight: 300;
