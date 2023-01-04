@@ -6,3 +6,4 @@ This app is created using https://dailygospel.org/AM/gospel data and filtered th
 * The filtered data selected upon a customer request.
 
 You can see the live version of this app at https://daily-gospel-reader.vercel.app/
+
